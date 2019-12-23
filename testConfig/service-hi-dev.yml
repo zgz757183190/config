@@ -1,0 +1,7 @@
+conf:
+  name: admin
+  password: 123456
+  host: 192.168.0.130
+  port: 8888
+  address: 测试阿里云
+  author: zgz
