@@ -3,5 +3,5 @@ conf:
   password: 8888
   host: 127.0.0.1
   port: 8888
-  address: 阿里云-dev
+  address: 阿里云-Hello
   author: zgz
